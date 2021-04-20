@@ -511,7 +511,7 @@ footer p{
         z-index: 4;
     }
 
-    .menu-toggle:hover{
+    .menu-toggle:before{
         content: '\f0c9';
         font-family: fontAwesome;
         line-height: 40px;
