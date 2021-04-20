@@ -211,6 +211,7 @@ nav ul li a:hover{
     font-weight: 300;
     color: #fff;
 }
+    
 .container{
     width: 100%;
     display: flex;
@@ -250,6 +251,8 @@ nav ul li a:hover{
 }
 .container .contactinfo .box .text a{
     color:white;
+    text-decoration: none;
+}
 .container .contactinfo .box .text h3{
     font-weight: 500;
     color: #00bcd4;
