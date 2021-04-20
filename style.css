@@ -516,7 +516,7 @@ footer p{
         font-family: fontAwesome;
         line-height: 40px;
     }
-    .menu-toggle.active:hover{
+    .menu-toggle.active:before{
         content: '\f00d';
         
     }
