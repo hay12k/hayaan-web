@@ -249,7 +249,7 @@ nav ul li a:hover{
     font-weight: 300;
 
 }
-.container .contactinfo .box .text a{
+.container .contactinfo .box .text p a{
     color:white;
     text-decoration: none;
 }
