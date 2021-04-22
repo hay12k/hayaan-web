@@ -1,9 +1,9 @@
 html{
     scroll-behavior: smooth;
+    Overflow-x:hidden;
     
 }
 body{
-    Overflow-x:hidden;
     margin: 0;
     padding: 0;
     font-size: 'poppins', sans-serif;
@@ -321,7 +321,7 @@ nav ul li a:hover{
 footer{
     background: #111;
     position: relative;
-    width: 75%;
+    width: 80%;
     height: auto;
     padding: 50px 100px;
 }
