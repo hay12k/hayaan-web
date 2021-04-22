@@ -323,7 +323,7 @@ nav ul li a:hover{
 footer{
     background: #111;
     position: relative;
-    width: 80%;
+    width: 100%;
     height: auto;
     padding: 50px 100px;
 }
@@ -429,7 +429,7 @@ footer p{
     color: #fff;
 }
 .copyright{
-    width: 79%;
+    width: 100%;
     background: #181818;
     padding: 8px 100px;
     text-align: center;
