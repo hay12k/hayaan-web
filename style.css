@@ -427,7 +427,7 @@ footer p{
     color: #fff;
 }
 .copyright{
-    width: 88%;
+    width: 83%;
     background: #181818;
     padding: 8px 100px;
     text-align: center;
@@ -497,6 +497,7 @@ footer p{
     }
     .copyright{
         padding: 8px 40px;
+        Width:100%
     }
 }
 @media(max-width:768px){
