@@ -11,6 +11,7 @@ body{
     background: url(image/hay.jpg);
     background-attachment: fixed;
     background: cover;
+    Width:100%;
     
 }
 header{
@@ -498,7 +499,7 @@ footer p{
     }
     .copyright{
         padding: 8px 40px;
-        Width:100%
+       
     }
 }
 @media(max-width:768px){
